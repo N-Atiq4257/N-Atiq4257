@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N-Atiq4257
 - 👀 I’m interested in somthing.
-- 🌱 I’m currently learning something.
+- 🌱 I’m currently learning Operating Systems & Machine Learning.
 - 💞️ I’m looking to collaborate on something.
 - 📫 How to reach me ... somewhere.
 
