@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N-Atiq4257
 - 👀 I’m interested in the SOUL of a computer.
-- 🌱 I’m currently learning Machine Learning, C++, Computer Networks, Database Systems, and Computer Architecture (On the side).
+- 🌱 I’m currently learning Operating Systems, Programming Languages, and Computer Architecture.
 - 💞️ I’m looking to collaborate on something.
 - 📫 How to reach me ... somewhere.
 
