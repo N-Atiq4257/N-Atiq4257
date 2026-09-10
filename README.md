@@ -1,4 +1,3 @@
-Somewhere in the stars...
 
 <!---
 N-Atiq4257/N-Atiq4257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
